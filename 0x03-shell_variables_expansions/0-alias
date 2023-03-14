@@ -1,4 +1,2 @@
 #!/bin/bash
-
-# Define the alias
 alias ls='ls rm*'
